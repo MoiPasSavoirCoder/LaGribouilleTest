@@ -1,0 +1,77 @@
+const ZigzagO = document.querySelector('.zigzag-orange')
+const ZigzagJ = document.querySelector('.zigzag-jaune')
+const Domex = document.querySelector('.Domex')
+const HautGauche = document.querySelector('.hg')
+const HautDroite = document.querySelector('.hd')
+const BasGauche = document.querySelector('.bg')
+const BasDroite = document.querySelector('.bd')
+const TâcheHautGauche = document.querySelector('.thg')
+const TâcheHautDroite = document.querySelector('.thd')
+const TâcheBasGauche = document.querySelector('.tbg')
+const TâcheBasDroite = document.querySelector('.tbd')
+const Milieu = document.querySelector('.mid')
+
+
+    const DomexAct = Domex.getBoundingClientRect().top;
+    const HautGaucheAct = HautGauche.getBoundingClientRect().top;
+    const HautDroiteAct = HautDroite.getBoundingClientRect().top;
+    const BasGaucheAct = BasGauche.getBoundingClientRect().top;
+    const BasDroiteAct = BasDroite.getBoundingClientRect().top;
+    const TâcheHautGaucheAct = TâcheHautGauche.getBoundingClientRect().top;
+    const TâcheHautDroiteAct = TâcheHautDroite.getBoundingClientRect().top;
+    const TâcheBasGaucheAct = TâcheBasGauche.getBoundingClientRect().top;
+    const TâcheBasDroiteAct = TâcheBasDroite.getBoundingClientRect().top;
+    const MilieuAct = Milieu.getBoundingClientRect().top;
+        const ZigzagOAct = ZigzagO.getBoundingClientRect().top;
+    const ZigzagJAct = ZigzagJ.getBoundingClientRect().top;
+
+
+    
+    if(scrollTop > (scrollTop + DomexAct).toFixed() - clientHeight * 0.8) {
+        Domex.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + HautGaucheAct).toFixed() - clientHeight * 0.8) {
+        HautGauche.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + HautDroiteAct).toFixed() - clientHeight * 0.8) {
+        HautDroite.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + BasGaucheAct).toFixed() - clientHeight * 0.85) {
+        BasGauche.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + BasDroiteAct).toFixed() - clientHeight * 0.85) {
+        BasDroite.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + HautGaucheAct).toFixed() - clientHeight * 0.8) {
+        TâcheHautGauche.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + HautDroiteAct).toFixed() - clientHeight * 0.8) {
+        TâcheHautDroite.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + BasGaucheAct).toFixed() - clientHeight * 0.85) {
+        TâcheBasGauche.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + BasDroiteAct).toFixed() - clientHeight * 0.85) {
+        TâcheBasDroite.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + MilieuAct).toFixed() - clientHeight * 0.8) {
+        Milieu.classList.add('active')
+    }
+
+
+        if(scrollTop > (scrollTop + ZigzagOAct).toFixed() - clientHeight * 0.7) {
+        ZigzagO.classList.add('active')
+    }
+
+    if(scrollTop > (scrollTop + ZigzagJAct).toFixed() - clientHeight * 0.7) {
+        ZigzagJ.classList.add('active')
+    }

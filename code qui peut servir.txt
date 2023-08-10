@@ -1,0 +1,194 @@
+        
+
+        <!-- Reviews section -->
+        <section class="site-section section-reviews text-center">
+            <div class="container">
+                <h2>Client Reviews</h2>
+                <p class="section-subtitle"><span>OUR CLIENTS LOVE US! READ WHAT THEY HAVE TO SAY</span></p>
+            </div>
+
+            <div class="blue-bg">
+                <div class="container">
+                    <div class="review-carousel">
+                        <!-- Review 1 -->
+                        <div class="review">
+                            <div class="rectangle">
+                                <img src="assets/img/review.jpg" class="img-res" alt="">
+                            </div>
+                            <p>If there were 100 star rating I would leave 110. I have been building WP sites now full time for 7 years and in business for 12 and have never worked with such a solid company with such a wonderful set of themes.</p>
+                            <div class="review-author">
+                                <h3>Mike Taylor</h3>
+                                <p>CEO at Sports Portal</p>
+                            </div><!-- /.review-author -->
+                        </div><!-- /.review -->
+                        <!-- Review 2 -->
+                        <div class="review">
+                            <div class="rectangle">
+                                <img src="assets/img/review-2.jpg" class="img-res" alt="">
+                            </div>
+                            <p>Diana Johnson is a rare SEO consultant who does things the right way. I’ve been consistently impressed with her process, organization and strategic method of doing SEO the right way.</p>
+                            <div class="review-author">
+                                <h3>Anna Murray</h3>
+                                <p>CEO at Law firm</p>
+                            </div><!-- /.review-author -->
+                        </div><!-- /.review -->
+                    </div><!-- /.review-carousel -->
+                </div>
+            </div>
+        </section><!-- /.section-reviews -->
+        <!-- End Reviews section -->
+
+                <!-- Counters section -->
+                <section class="site-section section-counters text-center">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-2 col-xs-6 col-sm-offset-1">
+                                <div class="counter">
+                                    <div class="rectangle medium-rectangle ">
+                                        <i class="fa fa-rocket" aria-hidden="true"></i>
+                                        <span class="counter-start" data-to="167" data-speed="2000">167</span>
+                                    </div><!-- /.rectangle -->
+                                    <p class="oui">Projects Launched</p>
+                                </div><!-- /.counter -->
+                            </div>
+                            <div class="col-sm-2 col-xs-6">
+                                <div class="counter">
+                                    <div class="rectangle medium-rectangle ">
+                                        <i class="fa fa-trophy" aria-hidden="true"></i>
+                                        <span class="counter-start" data-to="25" data-speed="2000">25</span>
+                                    </div><!-- /.rectangle -->
+                                     <p class="oui">Awards won</p>
+                                </div><!-- /.counter -->
+                            </div>                    
+                            <div class="col-sm-2 col-xs-6">
+                                <div class="counter">
+                                    <div class="rectangle medium-rectangle ">
+                                        <i class="fa fa-paper-plane" aria-hidden="true"></i>
+                                        <span class="counter-start" data-to="98" data-speed="2000">98</span>
+                                    </div><!-- /.rectangle -->
+                                     <p class="oui">Proposals Sent</p>
+                                </div><!-- /.counter -->
+                            </div>                    
+                            <div class="col-sm-2 col-xs-6">
+                                <div class="counter">
+                                    <div class="rectangle medium-rectangle ">
+                                        <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                        <span class="counter-start" data-to="945" data-speed="2000">945</span>
+                                    </div><!-- /.rectangle -->
+                                     <p class="oui">Hours of work</p>
+                                </div><!-- /.counter -->
+                            </div>                    
+                            <div class="col-sm-2 col-xs-12">
+                                <div class="counter">
+                                    <div class="rectangle medium-rectangle ">
+                                        <i class="fa fa-coffee" aria-hidden="true"></i>
+                                        <span class="counter-start" data-to="256" data-speed="2000">256</span>
+                                    </div><!-- /.rectangle -->
+                                     <p class="oui">Cups of coffee</p>
+                                </div><!-- /.counter -->
+                            </div>
+                        </div>
+        
+                    </div>
+                </section><!-- /.section-counters -->
+                <!-- End Counters section -->
+
+
+
+        <!-- Hello section -->
+		<section class="site-section section-hello" id="intro">
+			<div class="container">
+				<p class="section-subtitle Domex"><span>Domaine d'Expertise</span></p>
+				<div class="row">
+                    <div class="zigzag-jaune">
+                        <img src="assets/img/ZIGZAG JAUNE.png" alt=""  width="270">
+                    </div>
+                    <div class="zigzag-orange">
+                        <img src="assets/img/ZIGZAG ORANGE.png" alt=""  width="270">
+                    </div>
+					<div class="col-sm-4">
+						<div class="main-service text-right">
+							<div class="rectangle">
+                                <div class="rose">
+                                    <img src="assets/img/tache rouge.png" alt="" width="130" height="130" class="thg">
+                                </div>
+							</div><!-- /.rectangle -->5555555
+                            <div class="hg">
+                                <h3>CONSTUCTIONS NEUVES</h3>
+							    <p class="question">Vous allez acquérir ou vous possédez déjà un terrain ?</p>
+                                <p>Vous avez des idées, mais vous ne savez pas comment les mettre en forme pour affiner votre projet ?</p>
+                                <p>À partir d'un plan de géomètre, d'un plan cadastral et d'un relevé altimétrique, je réalise votre projet sur mesure selon vos aspirations et vos besoins, dans le respect du PLU et des règlements éventuels.</p>
+                            </div>
+						</div><!-- /.main-service -->
+                        <div class="main-service text-right">
+                            <div class="rectangle">
+                                <div class="jaune">
+                                    <img src="assets/img/tache jaune.png" alt="" width="150" height="150" class="tbg">
+                                </div>
+                            </div>
+                            <div class="bg">
+                                <h3>PARTICULIERS</h3>
+                                <p class="question">Vous avez un projet en auto-construction ?</p>
+                                <p class="question">Vous souhaitez conserver un regard sur la maîtrise d’œuvre mais avez besoin d’aide pour la conception et le volet administratif de votre projet ?</p>
+                                <p class="question">Vous avez besoin de traduire graphiquement vos idées et vos envies ?</p>
+                                <p>Je suis là pour vous épauler de la phase conception jusqu’au montage complet de votre projet, une fois les autorisations administratives accordées</p>
+                            </div>
+                        </div><!-- /.main-service -->
+					</div>
+					<div class="col-sm-4">
+						<div class="big-rectangle mid" >
+							<img src="assets/img/TESTLOGOSITE.png" alt="" width="240px" lenght="240px" class="log0">
+						</div><!-- /.big-rectangle -->
+					</div>
+					<div class="col-sm-4">
+                        <div class="main-service text-left">
+                            <div class="rectangle">
+                                <div class="bleu">
+                                    <img src="assets/img/tache bleu.png" alt="" width="185" height="185" class="thd">
+                                </div>
+                            </div>
+                            <div class="hd">
+                                <h3>RÉNOVATIONS / EXTENSIONS </h3>
+                                <p class="question">Vous avez un projet de rénovation ?</p>
+                                <p class="question">Votre vie évolue et vous avez besoin d’une pièce supplémentaire ou simplement de revoir l’aménagement existant ?</p>
+                                <p>Je suis là pour étudier avec vous la faisabilité de votre projet et vous proposer des plans sur mesure répondant à vos attentes.</p>
+                            </div>
+                        </div><!-- /.main-service -->
+						<div class="main-service text-left">
+							<div class="rectangle">
+                                <div class="orange">
+                                    <img src="assets/img/tache orange.png" alt="" width="125" height="125" class="tbd">
+                                </div>
+							</div><!-- /.rectangle -->
+                            <div class="bd">
+                                <h3>PROFESSIONNELS</h3>
+							    <p class="question">Vous êtes un architecte débordé par l'activité ?</p>
+                                <p class="question">Vous êtes un maître d'œuvre cherchant à déléguer la conception et les démarches administratives à une personne de confiance ?</p>
+                                <p class="question">Vous êtes un agent immobilier souhaitant présenter des visuels 3D de qualité à vos prospects pour les aider à mieux se projeter</p>
+                                <p>Je suis là pour vous offrir mon expertise et mes services en production de plans 2D/3D</p>
+                            </div>
+						</div><!-- /.main-service -->
+					</div>
+				</div>
+			</div>
+		</section><!-- /.section-hello -->
+        <!-- End Hello section -->
+
+
+
+
+
+
+
+
+.proffessionnelle{
+  opacity: 0;
+  height: 50vh;
+  transform: translateX(10%);
+  transition: transform 0.85s ease-in-out, opacity 0.85s ease-in-out;
+}
+
+.proffessionnelle.active{
+  transform: translateX(0%);
+  opacity: 1; 
+}
